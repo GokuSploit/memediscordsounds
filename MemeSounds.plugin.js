@@ -74,7 +74,8 @@ module.exports = (() => {
 				{re: /dam/gmi, file: "friday-damn.mp3", duration: 200},
 				{re: /damn/gmi, file: "friday-damn.mp3", duration: 200},
 				{re: /ay/gmi, file: "jojos-bizarre-adventure-ay-ay-ay-ay-_-sound-effect.mp3", duration: 200},
-				{re: /aya/gmi, file: "jojos-bizarre-adventure-ay-ay-ay-ay-_-sound-effect.mp3", duration: 200}
+				{re: /aya/gmi, file: "jojos-bizarre-adventure-ay-ay-ay-ay-_-sound-effect.mp3", duration: 200},
+				{re: /hm/gmi, file: "moyai_UhOO9IW.mp3", duration: 200}
 				
 				
 				
